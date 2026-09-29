@@ -11,4 +11,4 @@ Microsoft Entra ID
 Power Platform Solutions
 Data: Synthetic data only.
 
-Purpose: Demonstrate requirements-led, governed agent development within the Microsoft ecosystem.
+Purpose: Demonstrate requirements-led, governed agent development within the Microsoft ecosystem
